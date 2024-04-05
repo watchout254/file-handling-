@@ -1,0 +1,5 @@
+12345 "This is a text file" true 
+12345 "This is a text file" true 
+12345 "This is a text file" true This is an additional line 1.
+This is an additional line 2.
+This is an additional line 3.
